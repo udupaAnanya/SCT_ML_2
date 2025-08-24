@@ -1,20 +1,20 @@
 # Mall Customer Segmentation (K-Means Clustering)
 
-## 📌 Project Overview
+##  Project Overview
 This project applies **K-Means Clustering** to segment mall customers based on their **Annual Income** and **Spending Score**.  
 The goal is to help businesses understand different customer groups and target them with personalized marketing strategies.
 
-## 📊 Dataset
+##  Dataset
 - Source: [Kaggle - Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 - Attributes: CustomerID, Gender, Age, Annual Income, Spending Score
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## 🔑 Key Steps
+##  Key Steps
 1. Data loading and preprocessing
 2. Feature scaling using StandardScaler
 3. Optimal cluster selection (Elbow Method & Silhouette Score)
@@ -23,7 +23,7 @@ The goal is to help businesses understand different customer groups and target t
 6. Cluster profiling (business interpretation)
 7. Exporting final segmented dataset
 
-## 📈 Results
+##  Results
 - Identified **5 optimal customer clusters**
 - Segments include:
   - High Income, High Spending (VIP customers)
