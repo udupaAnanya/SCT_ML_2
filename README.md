@@ -32,7 +32,7 @@ The goal is to help businesses understand different customer groups and target t
   - Low Income, High Spending (impulsive buyers)
   - Average Income, Average Spending (regular customers)
 
-## 🚀 How to Run
+##  How to Run
 ```bash
 git clone https://github.com/your-username/SCT_ML_2.git
 cd SCT_ML_2
